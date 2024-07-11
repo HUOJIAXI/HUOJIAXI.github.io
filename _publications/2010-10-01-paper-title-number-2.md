@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is indexed by SCI.'
 date: 2022-08-05
-venue: 'Dual-layer multi-robot path planning in narrow-lane environments under specific traffic policies'
+venue: 'Intelligent Services Robotics'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Huo J, Zheng R, Zhang S, et al. Dual-layer multi-robot path planning in narrow-lane environments under specific traffic policies[J]. Intelligent Service Robotics, 2022, 15(4): 537-555.'
 ---
