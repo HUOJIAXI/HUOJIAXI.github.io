@@ -6,7 +6,7 @@ excerpt: 'This paper is indexed by EI.'
 date: 2022-02-05
 venue: '2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)'
 paperurl: 'http://huojiaxi.github.io/files/paper2.pdf'
-citation: 'Huo J, Zheng R, Zhang S, et al. Multi-Robot Path Planning in Narrow Warehouse Environments with Fast Feasibility Heuristics[C]//41st Chinese Control Conference (CCC). IEEE, 2022: 1840-1845.'
+citation: 'Huo J, Zheng R, Zhang S, et al. Multi-robot Path Planning Algorithm in Dense Environments Using Particular Collision-free Traffic Rules[C]//2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM). IEEE, 2022: 10-15.'
 ---
 
 Scheduling collision-free paths for a large number
