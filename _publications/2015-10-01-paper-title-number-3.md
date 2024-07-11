@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is indexed by EI.'
 date: 2022-02-05
 venue: '2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)'
-paperurl: 'http://huojiaxi.github.io/files/paper3.pdf'
+paperurl: 'http://huojiaxi.github.io/files/paper2.pdf'
 citation: 'Huo J, Zheng R, Zhang S, et al. Multi-Robot Path Planning in Narrow Warehouse Environments with Fast Feasibility Heuristics[C]//41st Chinese Control Conference (CCC). IEEE, 2022: 1840-1845.'
 ---
 
