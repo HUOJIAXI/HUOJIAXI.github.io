@@ -21,7 +21,7 @@ repository               : "HUOJIAXI/HUOJIAXI.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "huojiaxi.png"
   name             : "Jiaxi Huo"
   pronouns         : # example: "he/his"  
   bio              : "Engineer of Control Algorithm, China Academy of Space Technology Hangzhou Institute"
