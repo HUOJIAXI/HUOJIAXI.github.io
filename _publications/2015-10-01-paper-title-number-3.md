@@ -1,13 +1,21 @@
 ---
-title: "Paper Title Number 3"
+title: "Multi-robot Path Planning Algorithm in Dense Environments Using Particular Collision-free Traffic Rules"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is indexed by EI.'
+date: 2022-02-05
+venue: '2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)'
+paperurl: 'http://huojiaxi.github.io/files/paper3.pdf'
+citation: 'Huo J, Zheng R, Zhang S, et al. Multi-Robot Path Planning in Narrow Warehouse Environments with Fast Feasibility Heuristics[C]//41st Chinese Control Conference (CCC). IEEE, 2022: 1840-1845.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Scheduling collision-free paths for a large number
+of robots in dense environments with high effciency is achieved
+in this work. We propose an algorithm, OMPP (One-way Multi-robot Path Planning), using a new topological skeleton representation of the dense environment by introducing the particular
+collision-free traffc rules. We propose the integer programming
+technique based on the topological skeleton graph to tackle the
+multi-robot path planning optimization problem using distance
+metrics. We realize two practical achievements in solving multi-robot path planning problems in dense environments: collision-free robotic path generation and an effcient solving process. We
+have performed numerous simulations. According to the extensive
+simulation data, our algorithm suggests a higher overall performance in dense environments than the existing representative
+algorithms.
