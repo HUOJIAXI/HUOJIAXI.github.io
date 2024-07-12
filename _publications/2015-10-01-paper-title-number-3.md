@@ -1,7 +1,7 @@
 ---
 title: "Multi-robot Path Planning Algorithm in Dense Environments Using Particular Collision-free Traffic Rules"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is indexed by EI.'
 date: 2022-02-05
 venue: '2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)'
