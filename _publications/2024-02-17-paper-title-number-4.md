@@ -1,7 +1,7 @@
 ---
 title: "Multi-Robot Path Planning in Narrow Warehouse Environments with Fast Feasibility Heuristics"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is indexed by EI.'
 date: 2022-10-11
 venue: '41st Chinese Control Conference (CCC)'
