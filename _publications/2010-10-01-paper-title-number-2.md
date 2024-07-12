@@ -1,7 +1,7 @@
 ---
 title: "Dual-layer multi-robot path planning in narrow-lane environments under specific traffic policies"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is indexed by SCI.'
 date: 2022-08-05
 venue: 'Intelligent Services Robotics'
