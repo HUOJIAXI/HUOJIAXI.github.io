@@ -15,6 +15,10 @@ I hold a **bachelor's** degree in **Automation** from **Zhejiang University** (2
 
 Selected News
 -------
+
+
+Selected Research
+-------
 **2023-NOW** **All-terrain 4WIS4WID autonomous mobile robot system**  
 Aiming at complex mission scenarios, we develop a all-terrain 4-wheel-steering-4-wheel-driving (4WIS4WID) robot system and independently develop key technologies such as chassis control algorithms, navigation algorithms and autonomous charging algorithms.  
 
@@ -26,9 +30,7 @@ Deeply involved in the research and development of quadruped robot projects for 
 
 **2023-2023** **Research on distributed planning problem of multi-robot systems for collaborative tasks (Bachelor's and master's thesis**  
 We propose the two-layer multi-robot path planning framework and control algorithm. Compared with the current mainstream multi-robot path planning algorithm, it has higher solution efficiency in high-density industrial warehousing environments.
- 
-Selected Research
--------
+
 
 Selected Awards and Honors
 -------
