@@ -12,7 +12,7 @@ title                    : "Jiaxi Huo"
 title_separator          : "-"
 name                     : &name "Jiaxi Huo"
 description              : &description "personal description"
-url                      : https://huojiaxi.github.io/
+url                      : https://huojiaxi.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HUOJIAXI/HUOJIAXI.github.io"
 
