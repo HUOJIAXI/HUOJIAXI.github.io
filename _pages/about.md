@@ -20,10 +20,15 @@ Selected News
 Selected Research
 -------
 **2023-NOW** **All-terrain 4WIS4WID autonomous mobile robot system**  
-Aiming at complex mission scenarios, we develop a all-terrain 4-wheel-steering-4-wheel-driving (4WIS4WID) robot system and independently develop key technologies such as chassis control algorithms, navigation algorithms and autonomous charging algorithms.  
+Aiming at complex mission scenarios, we develop a all-terrain 4-wheel-steering-4-wheel-driving (4WIS4WID) robot system and independently develop key technologies such as chassis control algorithms, navigation algorithms and autonomous charging algorithms. 
+![Project1-4wiswid-robot](../images/Simulation3_00.png)
+![Project1-4wiswid-robot](../images/schema_00.png)
+
 
 **2022-2023** **Intelligent wheeled inspection robot system**  
-We built a robot simulation platform and physical platform based on ROS and Gazebo. We independently developed a full set of robot navigation algorithms, including multi-threaded dynamic path planning algorithms and high-precision path tracking algorithms, with positioning accuracy within ±2cm, to achieve cross-floor and cross-room inspections.  
+We built a robot simulation platform and physical platform based on ROS and Gazebo. We independently developed a full set of robot navigation algorithms, including multi-threaded dynamic path planning algorithms and high-precision path tracking algorithms, with positioning accuracy within ±2cm, to achieve cross-floor and cross-room inspections.
+
+<img src="../images/inspection_robot.png" alt="Project2-inspection-robot" height="180"> <img src="../images/inspection_robot_2.png" alt="Project2-inspection-robot" height="180">
 
 **2023-2023** **Lunar exploration quadruped robot**  
 Deeply involved in the research and development of quadruped robot projects for lunar exploration missions, mainly involved in the development of algorithms related to the navigation system (LIO-SAM and RRT applied).  
