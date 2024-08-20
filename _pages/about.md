@@ -28,14 +28,16 @@ Aiming at complex mission scenarios, we develop a all-terrain 4-wheel-steering-4
 **2022-2023** **Intelligent wheeled inspection robot system**  
 We built a robot simulation platform and physical platform based on ROS and Gazebo. We independently developed a full set of robot navigation algorithms, including multi-threaded dynamic path planning algorithms and high-precision path tracking algorithms, with positioning accuracy within ±2cm, to achieve cross-floor and cross-room inspections.
 
-![Project1-4wiswid-robot](../images/inspection_robot.png)
+![Project2-inspection-robot](../images/inspection_robot.png)
 
 **2023-2023** **Lunar exploration quadruped robot**  
 Deeply involved in the research and development of quadruped robot projects for lunar exploration missions, mainly involved in the development of algorithms related to the navigation system (LIO-SAM and RRT applied).  
 
+![Project3-lunar-robot](../images/lunar_path.jpg)
+
 **2023-2023** **Research on distributed planning problem of multi-robot systems for collaborative tasks (Bachelor's and master's thesis**  
 We propose the two-layer multi-robot path planning framework and control algorithm. Compared with the current mainstream multi-robot path planning algorithm, it has higher solution efficiency in high-density industrial warehousing environments.
-
+![Project-master](../images/robotplat(1)(1).png)
 
 Selected Awards and Honors
 -------
