@@ -15,7 +15,7 @@ I hold a **bachelor's** degree in **Automation** from **Zhejiang University** (2
 
 Selected News
 -------
-🎉🎉 [2024.08] One paper on **Multi-source Data-fusion Robot Navigation Framework in Low-texture Environments** is accepted to **IEEE ICUS 2024**. **[First Author & Corresponding Author]** 🎉🎉
+🎉🎉 [2024.08] One paper on **Multi-source Data-fusion Robot Navigation Framework in Low-texture Environments** is accepted to **IEEE ICUS (IEEE International Conference on Unmanned Systems) 2024**. **[First Author & Corresponding Author]** 🎉🎉
 
 Selected Research
 -------
