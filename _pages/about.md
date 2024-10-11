@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently an engineer specializing in control algorithms at the China Academy of Space Technology Hangzhou Institute.**
+**I am currently an engineer specializing in control algorithms.**
 
 I am passionate about developing robust and efficient robot systems capable of achieving different mission objectives. My research interests include **multi-robot path planning**, **SLAM**, and **robot control**. 
 
