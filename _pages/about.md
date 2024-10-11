@@ -41,25 +41,21 @@ We propose the two-layer multi-robot path planning framework and control algorit
 
 Selected Awards and Honors
 -------
-**2023** Outstanding Graduates of Zhejiang Province, Provincial Department of Education 浙江省优秀毕业生  
+**2023** Outstanding Graduates of Zhejiang Province, Provincial Department of Education
 
-**2023** Outstanding Graduates of Zhejiang University, Zhejiang University 浙江大学优秀毕业生  
+**2023** Outstanding Graduates of Zhejiang University, Zhejiang University
 
 **2022** **Best Paper Finalists**, **2022 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)**, IEEE, one of the top conferences in robotics and mechatronics  
 
-**2022** National Scholarship for Graduate Excellence, Ministry of Education 国家奖学金  
+**2022** National Scholarship for Graduate Excellence, Ministry of Education
 
-**2022** Wang Guosong Scholarship (the highest honor of my college), Zhejiang University 王国松奖学金  
+**2022** Wang Guosong Scholarship (the highest honor of my college), Zhejiang University
 
-**2022** Merit Postgraduate, Zhejiang University 浙江大学三好研究生  
-
-**2021** HUAWEI Scholarship, Zhejiang University 华为奖学金  
+**2022** Merit Postgraduate, Zhejiang University
 
 **2021** Goden Prize of ``Internet+'' Innovation and Enterpreneurship Competition, Ministry of Education  
 
 **2020 2021** Merit Graduate Student & Award of Honor for Graduate, Zhejiang University  
-
-**2018** China Scholarship Council (CSC) scholarships, China Scholarship Council 国家留学基金委全额奖学金  
 
 Selected Academic Activities
 -------
